@@ -1,6 +1,6 @@
 # assignment
 
-#Created By:
+Created By:
 Name: Alexis Caldwell
 
 Email: adcaldwell@student.fullsail.edu
