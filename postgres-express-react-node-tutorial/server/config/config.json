@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "AlexisC",
+    "password": null,
+    "database": "todos-development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "AlexisC",
+    "password": null,
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "AlexisC",
+    "password": null,
+    "database": "todos-production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
